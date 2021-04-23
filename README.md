@@ -1,0 +1,2 @@
+# CTB
+Crypto Trading Bot
